@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// changes to be done
 #define SIZE 5
 
 void enQueue(int );
